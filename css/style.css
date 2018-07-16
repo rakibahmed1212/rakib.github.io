@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+body{ background-color:#9C9;}
+.ck{ background-color:#FFF; }
+.lgdv{ width: 42.333%;}
+.logo{ height:40px; width:40px;}
+.dblaffotr{ margin-bottom: 0px;}
+.aftfooter{ border:#000 1px solid; padding:15px 70px 20px 100px; margin:10px; width: 31.333%;}
+.aftrftr{ background-color:#C2DDF3;}
+.aftfooter:hover{ opacity:0.5; font-size:150%; background-color:#FCC; display:block;}
+.stf{ border:1px #666666 solid;}
+.stfclr{ background-color:#CCC;}
+.stfot{ background-image:url(../images/stf_img/footer_top_bg.png); background-repeat:no-repeat; height:100px;}
+.repls{ margin-bottom: -10px; background-image:url(../images/cult_hstry/Untitled-1.jpg); background-position:100%;}
+audio{ max-width:280px;}
